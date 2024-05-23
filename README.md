@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Tuna and im a sophomore computer science student at Bilkent
+My name is Tuna and im a junior computer science student at Bilkent
 
 <!--
 **TunaCuma/TunaCuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
