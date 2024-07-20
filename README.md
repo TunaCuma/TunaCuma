@@ -7,7 +7,7 @@
 
 I am a passionate Computer Engineering student with a keen interest in full stack development and emerging technologies like blockchain and AI. I have experience working on various projects that leverage these technologies to create innovative solutions.
 
-- 🔭 Currently working as a **Frontend Developer** at [StoryChain](https://storychain.com)
+- 🔭 Currently working as a **Frontend Developer** at [StoryChain](https://storychain.ai)
 - 💼 Part-time **Full Stack Engineer** at [CYBERARP](https://cyberarp.com)
 - 🌐 Developing web applications using **Next.js** and **TailwindCSS**
 - 💬 Ask me about Web3, NFTs, and modern frontend frameworks
