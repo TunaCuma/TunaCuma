@@ -27,7 +27,7 @@ Ankara, Türkiye
 *January 2024 - Present*  
 Ankara, Türkiye
 
-- Working on full stack solutions to enhance cybersecurity measures and protocols
+- Working on full stack solutions to enhance business management
 
 ### [Optdcom](https://optdcom.com)
 **Frontend Developer**  
