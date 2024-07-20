@@ -14,7 +14,7 @@ I am a passionate Computer Engineering student with a keen interest in full stac
 
 ## Experience
 
-### [StoryChain](https://storychain.com)
+### [StoryChain](https://storychain.ai)
 **Frontend Developer**  
 *April 2024 - Present*  
 Ankara, Türkiye
