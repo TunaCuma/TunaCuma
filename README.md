@@ -45,7 +45,7 @@ Ankara, Türkiye
 ## Skills
 
 - **Languages**: Türkçe (Native), English (Professional Working)
-- **Technologies**: TailwindCSS, Web3, Next.js
+- **Technologies**: TailwindCSS, Web3, React, Next.js, Django, SQL, Linux
 
 ## Contact
 
