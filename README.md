@@ -2,7 +2,7 @@
 
 ### 🚀 Frontend-focused Fullstack Developer
 
-I'm a passionate developer specializing in creating high-performance web solutions, with experience in building products used by 100,000+ users worldwide. I love clean architecture, performance optimization, and writing maintainable code! Currently studying Computer Engineering at Bilkent University.
+I'm a passionate developer specializing in creating high-performance web solutions, with experience in building products used by 100,000+ users worldwide. I love clean architecture, performance optimization, and writing maintainable code! Currently doing an internship at Udemy.
 
 ## 🛠️ Tech Stack
 
